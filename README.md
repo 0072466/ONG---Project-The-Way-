@@ -14,3 +14,5 @@
 
 # 🔗LINK:
  https://0072466.github.io/ONG---Project-The-Way-/
+
+ ###### © 2026 REEN — Projeto desenvolvido com foco em estudo de Python e energia doméstica. Fico feliz se te ajudei em algo!🌎
