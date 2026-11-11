@@ -12,7 +12,10 @@
 ## 💡HIPÓTESE:
   🔹 Uma campanha baseada nas necessidades da ONG poderá ampliar a arrecadação de materiais úteis, incentivar o reaproveitamento e reduzir o consumo excessivo.
 
-## 🔗LINK:
- https://0072466.github.io/ONG---Project-The-Way-/
+## 🔗LINK DO SITE PARA DOAR:
+ https://doe-itens-giving-guide.lovable.app/
+
+## 🔗LINK DO SITE PARA SABER MELHOR
+https://0072466.github.io/ONG---Project-The-Way-/
 
 ###### © 2026 RE.CIRCULA · Cuidar também é transformar.
