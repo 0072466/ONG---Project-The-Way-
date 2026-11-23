@@ -16,6 +16,7 @@
  https://doe-itens-giving-guide.lovable.app/
 
 ## 🔗LINK DO SITE PARA SABER MELHOR
-https://0072466.github.io/ONG---Project-The-Way-/
+https://0072466.github.io/ONG---Project-The-Way-/ *
+*desculpe fiz com lovable
 
 ###### © 2026 RE.CIRCULA · Cuidar também é transformar.
